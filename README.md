@@ -7,7 +7,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * Dataverse
 * Power Automate
 * AI Builder
-* 
+* Azure
+  
 I am an experienced, inquisitive and organized full-stack engineer for the Power Platform. Deeply analytical with exceptional attention to detail, I continue to build on my skills through increasingly difficult projects and new technologies. I am excited to find a new and challenging role where I can leave a lasting impact, build extraordinary software and contribute to a dynamic team.
 
 * 🌍  I'm based in Chicago
