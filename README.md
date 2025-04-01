@@ -3,7 +3,7 @@ Hello, my name is Diana Kakoma
 
 ### Power Platform Software Engineer
 --------------------------------
-* Power Apps: Model Drive Apps & Canvas Apps
+* Power Apps: Model Driven Apps & Canvas Apps
 * Dataverse
 * Power Automate
 * AI Builder
@@ -12,7 +12,7 @@ Hello, my name is Diana Kakoma
 I am an experienced, inquisitive and organized full-stack engineer for the Power Platform. Deeply analytical with exceptional attention to detail, I continue to build on my skills through increasingly difficult projects and new technologies. I am excited to find a new and challenging role where I can leave a lasting impact, build extraordinary software and contribute to a dynamic team.
 
 * 🌍  I'm based in Chicago
-* 🧠  I'm learning how to integrate Power Apps and Github
+* 🧠  I'm learning how to use APIs and Adaptive Cards within the Power Platform
 * 🤝  I'm open to collaborating on Power Apps and Power Automate projects
 * ⚡  I love the Power Platform
 
